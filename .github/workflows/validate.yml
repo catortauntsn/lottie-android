@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - master
-
+                                                                
 jobs:
   gradle-wrapper:
     runs-on: ubuntu-latest
